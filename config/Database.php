@@ -10,7 +10,7 @@ class Database {
     private $host     = "localhost";
     private $user     = "root";
     private $password = "";
-    private $nama_db  = "";
+    private $nama_db  = "belajar_crud";
 
     public $koneksi;
 
